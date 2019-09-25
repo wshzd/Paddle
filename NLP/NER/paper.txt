@@ -1,0 +1,6 @@
+使用paddle ernie预训练模型来fine tuning的MSRA_NER数据集
+https://github.com/PaddlePaddle/PaddleHub/blob/release/v1.1.0/demo/sequence-labeling
+
+
+
+
